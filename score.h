@@ -3,6 +3,8 @@
 #include <stdio.h>
 #define MAX 30
 
+// editing on github editor
+
 void input_scores(int[]);
 void evaluation(int[], int[]);
 void classification(int[], int[]);
